@@ -1,0 +1,32 @@
+HP ( Parent Company ISS) 				(15Jun15-7Apr16)
+Client: Wells Fargo
+Role: Senior Consultant Technology
+Projects: 1) HP SA AI 2) ORM ETL Solution
+Skills: Python, cx_oracle, bash/sed/awk, perl
+#-------------------------------------------------
+HP ( Contractor : ISS ) (15Jun15 – 7Apr16)
+Client : Wells Fargo :)
+Projects : 1) HP SA Pre/Post Patching Scripts 2) ORM ETL solution
+
+1)HP SA Pre/Post Patching Scripts
+Roles: Leading and development with team of 3 members.
+Tasks : 1) Refining Pre/Post checks & actions defined in Playbook.
+2) Implementing & Automating steps required in Pre-Patching & Post-Patching  in Shell script
+3) Running , Testing these scripts in HP SA tool & Linux/Solaris terminals.
+Skills Used : 1) bash scripts 2) sed , awk 3) Python Scripting
+
+2) ORM ETL solution 
+Roles : Leading and development with team of 2 members.
+This solution load data from HP Server Automation into the Wells Fargo Compliance Reporting database.
+Tasks : 1) Doing R&D for setup of : python2.7, virtualenv, pyodbc, unixODBC, cx_Oracle in UAT & Integration Server.
+2) Developed Python code for :
+1) Connecting to AI vertica DB
+2) Quering AI database for fetching records after date saved in control file.
+3) Querying for records for ari those got failed to insert last time.
+4) Inserting/Syncing these fetched records in Oracle CRDB.
+5) For successful insertion tracking in passed_record.csv
+6) For failed insertion tracking in failed_record.csv
+Non Functional Requirements:
+1) Sending notification email (mailx) for exceptions in connections, insertions etc.
+2) Scheduling loadaudit, auditmail jobs using crontab
+Skills used: python script, shell scripting, scheduling (crontab)
