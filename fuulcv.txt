@@ -10,18 +10,18 @@ Experience: 12 Yrs experience in software development & testing using c++/python
 
 skillset:
 middleware              : python, django, django REST framework
-python-modules          : datasructures, OOP, , flask, jinja2, lxml
+python                  : datasructures, OOP, , flask, jinja2, lxml
 database                : postgresql, psycopg, mongodb
 data-modelling          : json/xml schema creation, validation, parsing, serialization
 Frontend                : html, css, bootstrap, es6, jquery, angularjs, jinja2
 
 Tools/IDE:
 
-web2.0          : eclipse, pydev, eclipse python debugger
-debugging       : gdb, cscope, vi, bash, pdb
-code analysis	: pylint, valgrind
-agile			: Redmine, Scrum practices
-scm             : git, svn
+web2.0                  : eclipse, pydev, pdb
+debugging               : gdb, cscope, vi, bash, pdb
+code analysis           : pylint, valgrind
+agile                   : redmine, scrum practices
+scm                     : git, svn
 
 
 IT EXPERIENCE:
@@ -29,7 +29,7 @@ IT EXPERIENCE:
 1) kpit                                                     (11Apr16-Present)
    client: zf/trw
    role: project leader
-	projects: 1)ften(bluetooth phonebook) 2)atest port testing
+   projects: 1)ften(bluetooth phonebook) 2)atest port testing
    skills: python, eclipse, pdb, django, django-rest-framework, angularjs
 
 2) HP(parent company ISS)                                   (15Jun15-7Apr16)
@@ -64,38 +64,42 @@ IT EXPERIENCE:
    3) rockpile oem automation
    skills: perl, cpan, python, javascript, html, qt/c++
 
-7) Verizon Data Services India (P) Ltd			(Sep 2006 – Mar 2008)
-Senior Analyst
-Project:
-1) VMobile simulator (Dec 2006- Mar 2008)
-2) AWAS (Automated work force Administration system
-3) Netgate	
+7) verizon                                                  (Sep06–Mar08)
+   role: senior analyst
+   projects:
+   1) vmobile simulator
+   2) awas (automated work force administration system)
+   3) netgate	
+   skills: bash, perl, c++, gdb, make, html, css, javascript, xml
 
-8) IBM					(16Jan06 - 15Sep06)
-          Software Engineer
-          Project:
-          1) CFSW ( Configurator for Software)
+8) IBM                                                      (16Jan06-15Sep06)
+   role: software engineer
+   projects: 1) CFSW(configurator for software)
+   skills: c++, gdb, make, bash, awk, perl, python
 	
-9)  Innominds Software (P) Ltd				(8Aug05 - 31Dec05)	
-Senior Software Engineer				
-Project:
-1) Client: Nokia Internet Communications, Hyderabad
+9) innominds software (p) ltd				                     (8Aug05-31Dec05)	
+   client: nokia internet communications, hyderabad
+   role: senior software engineer
+   projects: vnp webgui
+   skills: c, tcl, linux(freebsd), vi, cscope, javascript, html/css
 
-10) Integra Micro Systems (P) Ltd			(17Feb04 - 16May05)
-	Software Engineer
-Project:
-1) Miraculix RIM Client for Palm Source
-2) Motorola India Electronics Limited
+10) integra micro systems (p) ltd                           (17Feb04-16May05)
+   client: 1)palm-blackberry 2)motorola
+   role: software engineer
+   projects:
+   1)rim client(blackberry web services) on palm handheld
+   2)gwsimulator for phone testing
+   skills: perl, tk, cpan, bash, vi, c++
 
-EDUCATIONAL QUALIFICATIONS
+educational qualifications
 
-B. E 		Mfg Process & Automation	 		1996 - 2000
-Netaji Subash Institute of Technology (Formerly: Delhi Institute of Technology)
-Delhi University
+B.E. in mfg process & automation                             (Jul96-May00)
+netaji subash institute of technology (formerly: delhi institute of technology)
+delhi university
 
 B.E	 		-   64.3% 
-Intermediate (10+2) 	-   70%
-SSC (10th) 		-   77%
+intermediate (10+2) 	-   70%
+ssc (10th) 		-   77%
 
 PROJECT EXPERIENCES
 1) KPIT ( 11Apr16 – Present)
