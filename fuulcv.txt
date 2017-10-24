@@ -41,7 +41,9 @@ IT EXPERIENCE:
 3) accionlabs                                               (27Aug14–5May15)
    client: rackspace
    role: principal consultant
-   projects: 1)automation integration 2)mango 3)thync-ui(python)
+   projects:
+   a)automation integration
+   b)mango(mobile access network for global opportunity)
    skills: python, eclipse, pdb, django, django-rest-framework, angularjs
 
 4) mphasis an HP company                                    (7Nov11-3Dec13)
@@ -144,25 +146,30 @@ Non Functional Requirements:
 2) Scheduling loadaudit, auditmail jobs using crontab
 Skills used: python script, shell scripting, scheduling (crontab)
 
-3) Accionlabs 					(27Aug14 – 5May15)
-Client: Rackspace
-Project
-	1) Automation Integration
-2) Process Flow Creations in ARIC
-3) MANGO (Mobile Access Network for Global Opportunity)
-Role: Designing, Coding, Task Management
-Framework: Django1.7, Python2.7.9, MySQL, Sqlite3, Django-Template, Django-RESTAPI (Tastypie)
-Tools Used: Task Coach, Liclipse, ST3, N++, Beyond Compare, Git Bash, SmartGit, Super putty, Filezilla, Bugzilla.
-Description: Project
-1) Automation Integration
-2) Process Flow Creations in ARIC
- 3)MANGO (Mobile Access Network For Global Opportunity)
-Role                     : Designing, Coding, Task Management
-Framework         : Django1.7, Python2.7.9, MySQL, Sqlite3, Django-Template,
-                              Django-RESTAPI (Tastypie)
-Tools Used          : Task Coach, Liclipse, ST3, N++, Beyond Compare, Git Bash,
-		     SmartGit, Super putty, Filezilla, Bugzilla.
-Description         : MANGO (Mobile Access Global Network Opportunity) : This is group of integrated applications to serve contents created in Drupal CMS to mobile end users. There is python middleware interacting with Drupal-CMS in backend to get contents by sending REST request to drupal cms REST server and passing nodeid of content in request. Once requested contents are received , then python/django middleware formats content to deck of cards format. card format is good to get displayed on end user's mobile. Learning/broadcast cards created in Django & served these to mobile users using Tastypie REST plugin.
+3) accionlabs                                               (27Aug14–5May15)
+   client: rackspace
+   role: principal consultant
+   projects: a)automation integration b)mango c)aric
+   
+   a)automation integration : it is a cluster of python webapps developed in django framework.
+   using these applications products(software/hardware) in data center are allocated/released/managed
+   using webgui.
+   resources (hardware) : servers-machines, switches, lan
+   resources (software) : databases, webservers, fileservers, dns-server, dhcp-server
+   using python-django middle ware information for resources are fetched from rest-api urls.
+   rest api is consumed in angularjs to populate webgui controls (lists,textboxes,etc)
+   tools & ide : eclipse, python, django, django-rest-framework, notepad++
+
+   b)mango(mobile access network for global opportunity)
+   role: design, coding, task management
+   framework: django, python, postgresql, sqlite3, jinja2, tastypie
+   tools used: task coach, eclipse, sublime-text, beyond compare, git, bash
+   description: mango(mobile access network for global opportunity) is group of integrated applications
+   to serve contents created in drupal cms to mobile end users.there is python middleware interacting
+   with drupal-cms in backend to get contents by sending rest request to drupal cms rest server and
+   passing nodeid of content in request. once requested contents are received , then python/django middleware
+   formats content to deck of cards format. card format is good to get displayed on end user's mobile.
+   learning/broadcast cards created in django & served these to mobile users using tastypie rest plugin.
 
 4) mphasis an HP company                                    (7Nov11-3Dec13)
    role: project leader(systems)
