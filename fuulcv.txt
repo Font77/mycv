@@ -234,54 +234,63 @@ B) ebs (electronic brake system , continental):
       this tool used to parse ebs_configuration.xml to collect required information in dictionaries.
       ebs_dict is passed to jinja2 template file ebs_test_script_template.tcl to generate test script.
 
-6) polycom r&d india (p) ltd		(Apr2008 – Feb 2010)
-senior software engineer (module lead)
-projects/responsibilities:
-·8 VVX1500 UI Development (Apr2008-Present):
-Role:
-A1) Design & Development of SIP Application User Interface
-OS: Linux MontaVista, UI Framework and API: Qt 4.5, UI Modeling Pattern: MVC (Model View Controller)
-Designed UML Diagrams (Class Diagrams, Interaction, sequence diagrams, Activity diagrams)
-1) New Call Screen (Idle Screen)
-2) Call offering Screen (Answer Screen)
-3) End Call Screen
-4) Main Menu Screen
-5) Call log screen: Missed Calls, Received Calls, and Placed Calls
-6) Admin Setting Screen 
-7) Network Settings Screen
+6) polycom r&d india (p) ltd                                (apr08–feb10)
+   role: senior software engineer(module lead)
+   projects:
+   a) vvx1500 ui development with qt/linux 
+   b) development of python scripts for sip automation team 
+   c) rockpile oem automation
+   skills: python, cpan, python, javascript, html, qt/c++
+//-------------------
+6) polycom r&d india (p) ltd                                (apr08–feb10)
+   role: senior software engineer(module lead)
+   projects:
 
-A2) Modeling & Porting of SPIP screens to Video Phone VVX1500 & SSIP
-(Sound Station IP Phones) by using Qt Creator.
+   a1) vvx1500 ui development with qt/linux 
+   role:
+   a1) design & development of sip application user interface
+   os: linux montaVista, ui framework and api: qt 4.5, ui modeling pattern: mvc(model view controller)
+   designed uml diagrams (class diagrams, interaction, sequence diagrams, activity diagrams)
+      1) new call screen (idle screen)
+      2) call offering screen (answer screen)
+      3) end call screen
+      4) main menu screen
+      5) call log screen: missed calls, received calls, and placed calls
+      6) admin setting screen 
+      7) network settings screen
+   a2) modeling & porting of spip screens to video phone vvx1500 & ssip
+   (Sound Station IP Phones) by using qt creator.
+   a3) developing python scripts to automate unit testing for call related unit tests.
+   tools used: qt creator, linux ((polydsp davinci): vi, qmake, cscope, valgrind,
+   qt network api, shell, source insight, beyond compare, wincvs
 
-A3) Developing Python scripts to automate unit testing for call related unit tests.
-Tools Used: Qt Creator, Linux ((PolyDSP DaVinci): VI, qmake, cscope, Valgrind,
-Qt Network API, Shell, Source Insight, Beyond Compare, WinCVS
+   b) development of python scripts for sip automation team
+   it is python framework to automate testing of development builds on all voip phones.
+   this framework is developed using perl modules to interact with phones over telnet
+   and http hooks. it supports running test scripts remotely on phones. in this frame work
+   all test resources are accessed using webgui in browser. these scripts are run by qmtest tool.
+   role:
+   a) development of python scripts for test cases available in polytest database.
+   b) developing and enhancing framework to interact with phones, boot server, repository, trd.
+   c) testing and debugging perl test scripts in eclipse.
+   d) creating wrapper over dbi, telnet, xml, file and ftp modules.
+   e) creating and maintaining python and batch scripts to generate qmt wrappers to create qmtest tdb.
+   f) scripted, tested & reviewed test cases for below sections:
+   1) call diversion 2) call park & call pickup
+   3) acceptance of passwords in admin/user settings
+   4) multiple call appearance 5) call hold
+   6) call transfer 7) multilingual settings.
+   language/tools: python 2.4, eclipse ide, python modules (logging,unittest,argparse,lxml,request)
 
-B) Development of Python Scripts (Apr2008-Dec2008) 
-It is Python frame work to automate testing of Development builds on all VoIP phones.
-This framework is developed using Perl modules to interact with phones over telnet and http hooks. It supports running test scripts remotely on phones. In this frame work all test resources are accessed using Mysql. These scripts are run by QmTest tool.
-
-Role:
-a) Development of Python Scripts for test cases available in polytest database.
-b) Developing and enhancing framework to interact with phones, boot server, repository, TRD.
-c) Testing and Debugging Perl test scripts in Komodo.
-d) Creating wrapper over DBI, Telnet, XML, File and FTP modules.
-e) Creating and maintaining python and batch scripts to generate QMT wrappers to create Qmtest tdb.
-f) Scripted, Tested & Reviewed test cases for below sections:
-1) Call Diversion 		2) Call Park & Call Pickup
-3) Acceptance of Passwords in admin/user settings
-4) Multiple Call Appearance 	5) Call Hold
-6) Call Transfer			7) multilingual settings.
-
-C) Rock pile Cisco IP Phone Testing (Test Record and Run tool- July2008-Jan2009): 
-It is used for recording test cases, updating builds and running recorded test cases.
-It is being developed using java script. It is accessing phone commands, keypad, screen and audio using http hooks provided for this phone.
-
-Role:
-1) Took Training for how existing Rockpile simulator works.
-2) Recorded Test cases assigned to me in Test Database (TCMS).
-3) Upgraded to version 2.0
-Language/Tools: Python 2.4, Komodo IDE, Notepad++
+   c) rock pile cisco ip phone testing (test record and run tool): 
+   it is used for recording test cases, updating builds and running recorded test cases.
+   it was developed using html/css/javascript.
+   it is accessing phone commands, keypad, screen and audio using http hooks provided for this phone.
+   role:
+   1) took training for how existing rockpile simulator works.
+   2) recorded test cases assigned to me in test database (tcms).
+   3) upgraded to version 2.0
+   language/tools: html, css, javascript, notepad++, firefox/chrome
 
 
 7) Verizon Data Services India (P) Ltd
