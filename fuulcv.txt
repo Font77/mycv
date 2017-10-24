@@ -32,10 +32,10 @@ IT EXPERIENCE:
    projects: 1)ften(bluetooth phonebook) 2)atest port testing
    skills: python, eclipse, pdb, django, django-rest-framework, angularjs
 
-2) HP(parent company ISS)                                   (15Jun15-7Apr16)
+2) hp(parent company iss)                                   (15Jun15-7Apr16)
    client: wells fargo
    role: senior consultant technology
-   projects: 1) HP SA AI 2) ORM ETL solution
+   projects: a)hp sa pre/post patching scripts 2) orm etl solution
    skills: python, shell(bash, sed, awk, perl)
 
 3) accionlabs                                               (27Aug14–5May15)
@@ -121,30 +121,33 @@ projects :
 	Tools & Language:
 	Redmine, Eclipse IDE, python
 
-2) hp (contractor : ISS) (15Jun15 – 7Apr16)
-Client : Wells Fargo :)
-Projects : 1) HP SA Pre/Post Patching Scripts 2) ORM ETL solution
-1)HP SA Pre/Post Patching Scripts
-Roles: Leading and development with team of 3 members.
-Tasks : 1) Refining Pre/Post checks & actions defined in Playbook.
-2) Implementing & Automating steps required in Pre-Patching & Post-Patching  in Shell script
-3) Running , Testing these scripts in HP SA tool & Linux/Solaris terminals.
-Skills Used : 1) bash scripts 2) sed , awk 3) Python Scripting
-2) ORM ETL solution 
-Roles : Leading and development with team of 2 members.
-This solution load data from HP Server Automation into the Wells Fargo Compliance Reporting database.
-Tasks : 1) Doing R&D for setup of : python2.7, virtualenv, pyodbc, unixODBC, cx_Oracle in UAT & Integration Server.
-2) Developed Python code for :
-1) Connecting to AI vertica DB
-2) Quering AI database for fetching records after date saved in control file.
-3) Querying for records for ari those got failed to insert last time.
-4) Inserting/Syncing these fetched records in Oracle CRDB.
-5) For successful insertion tracking in passed_record.csv
-6) For failed insertion tracking in failed_record.csv
-Non Functional Requirements:
-1) Sending notification email (mailx) for exceptions in connections, insertions etc.
-2) Scheduling loadaudit, auditmail jobs using crontab
-Skills used: python script, shell scripting, scheduling (crontab)
+2) hp(parent company iss)                                   (15Jun15-7Apr16)
+   client: wells fargo
+   projects: 1) HP SA Pre/Post Patching Scripts 2) orm etl solution
+
+   a)hp sa pre/post patching scripts
+   responsibilities: leading and development with team of 3 members.
+   tasks : 1)refining pre/post checks & actions defined in playbook.
+   2)implementing & automating steps required in pre-patching & post-patching using shell script
+   3)running, testing these scripts in hp sa tool & linux/solaris terminals.
+   skills used : 1)bash 2)sed 3)awk 4)python
+
+   b)orm etl solution 
+   responsibilities: leading and development with team of 3 members.
+   this solution load data from hp server automation into wells fargo compliance reporting database.
+   tasks :
+   1) doing r&d for setup of : python2.7, virtualenv, pyodbc, unixodbc, cx_Oracle in uat & integration server.
+   2) developed python code for :
+      a) connecting to ai vertica db
+      b) quering ai database for fetching records after date saved in control file.
+      c) querying for records for ari those got failed to insert last time.
+      d) inserting/syncing these fetched records in oracle crdb.
+      e) for successful insertion tracking in passed_record.csv
+      f) for failed insertion tracking in failed_record.csv
+   3) non functional requirements:
+      a) sending notification email (mailx) for exceptions in connections, insertions etc.
+      b) scheduling loadaudit, auditmail jobs using crontab
+   skills used: python , shell(bash, grep, sed, awk), scheduling(crontab)
 
 3) accionlabs                                               (27Aug14–5May15)
    client: rackspace
