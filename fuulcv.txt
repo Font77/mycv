@@ -26,42 +26,43 @@ scm             : git, svn
 
 IT EXPERIENCE:
 
-1) KPIT 							(11Apr16-Present)
-   Client zf / trw
-   Project: 
-   1) FTEN : Bluetooth Phonebook
-   2) aTest Port Testing ( Test Driven Development Project)
+1) kpit                                                     (11Apr16-Present)
+   client: zf/trw
+   role: project leader
+	projects: 1)ften(bluetooth phonebook) 2)atest port testing
+   skills: python, eclipse, pdb, django, django-rest-framework, angularjs
 
-2) HP ( parent company ISS) 				(15Jun15-7Apr16)
+2) HP(parent company ISS)                                   (15Jun15-7Apr16)
    client: wells fargo
    role: senior consultant technology
-   Projects: 1) HP SA AI 2) ORM ETL Solution
-   Skills: Python, Shell ( bash, sed, awk, perl)
+   projects: 1) HP SA AI 2) ORM ETL solution
+   skills: python, shell(bash, sed, awk, perl)
 
-3) Accionlabs (Principal Consultant) 			(27Aug14 – 5May15)
+3) accionlabs                                               (27Aug14–5May15)
    client: rackspace
-   projects: 1)automation integration 2) mango 3) thync-ui(python-tkinter)
-   role: automated test development , task management
+   role: principal consultant
+   projects: 1)automation integration 2)mango 3)thync-ui(python)
+   skills: python, eclipse, pdb, django, django-rest-framework, angularjs
 
+4) mphasis an HP company                                    (7Nov11-3Dec13)
+   client: HP
+   role: project leader–systems
+	projects: 1) active health system webgui 2) smart storage diagnostic utility
+   skills: c++, gdb, bash, python, eclipse, pdb, jquery
 
-4) MphasiS an HP Company (Bangalore)		(7Nov2011 --- 3Dec2013)
-	Project Leader – Systems
-	Project:
-	1) Active Health System WebGUI
-	2) Smart Storage Diagnostic Utility
+5) kpit                                                     (Apr10—Nov11)
+   client: 1)hyundai-mobis 2)continental
+   role: technical leader
+   projects: 1)linuxavn	2)electronic brake system
+   skills: c++/qt/qml, gdb, bash, python, perl
 
-5) KPIT Cummins Info system Limited			(April2010—Nov2011)
-	Tech Lead
-	Project:
-1) LinuxAVN (Client Hyundai-Mobis)				
-2) Electronic Brake System (Test Automation) (Client: Continental)
-
-6) Polycom R&D India (P) Ltd				(Apr 2008 – Feb2010)
-Senior Software Engineer (Module Lead)
-Project:
-1) VVX1500 UI Development with Qt/Linux 
-2) Development of Perl Scripts for SIP Automation Team 
-3) Rockpile OEM Automation
+6) polycom r&d india (p) ltd                                (Apr08–Feb10)
+   role: senior software engineer(module lead)
+   projects:
+   1) vvx1500 ui development with qt/linux 
+   2) development of perl scripts for sip automation team 
+   3) rockpile oem automation
+   skills: perl, cpan, python, javascript, html, qt/c++
 
 7) Verizon Data Services India (P) Ltd			(Sep 2006 – Mar 2008)
 Senior Analyst
