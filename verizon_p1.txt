@@ -1,0 +1,39 @@
+7) verizon                                                  (Sep06–Mar08)
+   role: senior analyst
+   projects:
+   a) vmobile simulator
+   b) awas (automated work force administration system)
+   c) netgate	
+   skills: bash, perl, c++, gdb, make, html, css, javascript, xml
+//---------------
+7) verizon                                                  (Sep06–Mar08)
+   role: senior analyst
+   projects:
+   a)vmobile simulator(dec06-mar08)
+   it is used as a simulator for testing functionality of different vmobile clients.
+   a) developing architecture and directory structure for this.
+   b) setting virtual hosts for each vmobile client.
+   c) writing code for providing logs to displays requests received and various parameters
+   in that. these logs are helpful for vmobile clients to test its all type of requests and server responses.
+   d) designing basic template for handling request/responses as a start up for other 2 team members.
+   language/tools: python 2.3, komodo ide, notepad++
+
+   b)awas(automated work force administration system) 
+   it is used for receiving dsl/fttp/pots jobs/service requests from backend and
+   then assigning those to technicians as per their-skills/location/criticality/customer type.
+   these jobs are downloaded in laptops/blackberry-sets by technicians using vmobile clients.
+   once they do completion/incompletion/refuse/reroute these are sent to awas, that updates these in
+   awas databases.
+   role: worked for gateway inbound/outbound server side coding.
+   it involves use of C++/esql(Informix) in cem environment on aix.
+
+   c)netgate(coding: sept 2006 - feb2007, prod support: sep06-mar08) 
+   it is middleware based on corba-poa(orbix) architecture for C++ on aix/sunos.
+   it receives/sends response-back from/to netway. its testing is done using gwsimulator.
+   gwsimulator is tool for trouble-shooting any issues arises for dsl/fttp/pots
+   tickets/service-requests/line-tests. it communicates with other servers using
+   orb-IDLs/xml-soap architecture.
+   role: 
+      1)took training of corba(idl & orb)
+      2)development for new CR/initiatives
+      3)tier-iii production support
