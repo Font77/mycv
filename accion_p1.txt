@@ -11,7 +11,7 @@
    role: principal consultant
    projects: a)automation integration b)mango c)aric
    
-	a)automation integration : it is a cluster of python webapps developed in django framework.
+   a)automation integration : it is a cluster of python webapps developed in django framework.
    using these applications products(software/hardware) in data center are allocated/released/managed
    using webgui.
    resources (hardware) : servers-machines, switches, lan
