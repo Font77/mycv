@@ -4,46 +4,44 @@ Mobile: +91-7022310981
 Email: viml828@gmail.com
 
 CAREER OBJECTIVE: 
-To pursue for challenging career in software development,scripting and Test Automation
+To pursue for challenging career in testing, scripting and test automation
 
-Experience: 12 Yrs experience in Test Driven Development, Test Automation & scripting (Python/Javascript)
+Experience: 12 Yrs experience in software development & testing using c++/python/javascript
 
-Skillsets:
-
-middleware		: Python, Django, django REST framework
-Python 		: DS, OOP, unittest, flask, jinja2, lxml
-Database		: postgresql, cx_oracle,  psycopg
-Frontend		: html, css, bootstrap, es6, jquery, angularjs, jinja2
+skillset:
+middleware              : python, django, django REST framework
+python-modules          : datasructures, OOP, , flask, jinja2, lxml
+database                : postgresql, psycopg, mongodb
+data-modelling          : json/xml schema creation, validation, parsing, serialization
+Frontend                : html, css, bootstrap, es6, jquery, angularjs, jinja2
 
 Tools/IDE:
 
-Web2.0                        : Eclipse, Pydev, N++, ST3, Eclipse python debugger
-Debugging                  : gdb, cscope, vi, bash, pdb(python debugger)
-Code Analysis		: pylint, valgrind
-Agile			: Redmine, Scrum practices
-SCM			: git, svn
+web2.0          : eclipse, pydev, eclipse python debugger
+debugging       : gdb, cscope, vi, bash, pdb
+code analysis	: pylint, valgrind
+agile			: Redmine, Scrum practices
+scm             : git, svn
 
 
 IT EXPERIENCE:
 
-
-
 1) KPIT 							(11Apr16-Present)
-Client zf / trw
-Project: 
-1) FTEN : Bluetooth Phonebook
-2) aTest Port Testing ( Test Driven Development Project)
+   Client zf / trw
+   Project: 
+   1) FTEN : Bluetooth Phonebook
+   2) aTest Port Testing ( Test Driven Development Project)
 
-2) HP ( Parent Company ISS) 				(15Jun15-7Apr16)
-       Client: Wells Fargo
-       Role: Senior Consultant Technology
-       Projects: 1) HP SA AI 2) ORM ETL Solution
-       Skills: Python, Shell ( bash, sed, awk, perl)
+2) HP ( parent company ISS) 				(15Jun15-7Apr16)
+   client: wells fargo
+   role: senior consultant technology
+   Projects: 1) HP SA AI 2) ORM ETL Solution
+   Skills: Python, Shell ( bash, sed, awk, perl)
 
 3) Accionlabs (Principal Consultant) 			(27Aug14 – 5May15)
-      Client: Rackspace
-      Project: 1) Automation Integration 2) MANGO 3) Thync-UI (python-tkinter)
-Role      : Automated test development , Task Management
+   client: rackspace
+   projects: 1)automation integration 2) mango 3) thync-ui(python-tkinter)
+   role: automated test development , task management
 
 
 4) MphasiS an HP Company (Bangalore)		(7Nov2011 --- 3Dec2013)
