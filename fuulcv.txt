@@ -1,12 +1,12 @@
-CURRICULUM VITAE
-Vimal Kumar
-Mobile: +91-7022310981 
-Email: viml828@gmail.com
+curriculum vitae
+vimal kumar
+mobile: +91-7022310981 
+email: viml828@gmail.com
 
-CAREER OBJECTIVE: 
-To pursue for challenging career in testing, scripting and test automation
+career objective: 
+to pursue for challenging career in testing, scripting and test automation
 
-Experience: 12 Yrs experience in software development & testing using c++/python/javascript
+experience: 12 Yrs in software development & testing using c++/python/javascript
 
 skillset:
 middleware              : python, django, django REST framework
@@ -97,18 +97,18 @@ B.E. in mfg process & automation                             (Jul96-May00)
 netaji subash institute of technology (formerly: delhi institute of technology)
 delhi university
 
-B.E	 		-   64.3% 
-intermediate (10+2) 	-   70%
-ssc (10th) 		-   77%
+B.E                  -   64.3% 
+intermediate (10+2) 	-   70.4%
+ssc (10th)           -   77%
 
-PROJECT EXPERIENCES
-1) KPIT ( 11Apr16 – Present)
-Projects :
-1) FTEN : Bluetooth Phonebook Sync		(11Apr16 - 30Sep16)
-	Tasks :
-	1) Encoding & Decoding support for multilanguage vCard
-	Tools & Language: 
-	Redmine, unipro, C++, Eclipse IDE, Linux ( vi, cscope)
+project experiences
+1) kpit (11Apr16–present)
+projects :
+   1) ften : bluetooth phonebook sync                       (11Apr16-30Sep16)
+      Tasks :
+      1) encoding & decoding support for multilanguage vCard
+      tools & language: 
+      redmine, unipro, c++, eclipse ide, linux (vi, cscope)
 2) ZF-TRW : aTest Port Testing:			(1Nov16 - 1Sep17)
 	1) Understanding client requirements and design diagrams
 	2) Discussing with client for unit tests lists and functions lists to be implemented
@@ -164,10 +164,10 @@ Tools Used          : Task Coach, Liclipse, ST3, N++, Beyond Compare, Git Bash,
 		     SmartGit, Super putty, Filezilla, Bugzilla.
 Description         : MANGO (Mobile Access Global Network Opportunity) : This is group of integrated applications to serve contents created in Drupal CMS to mobile end users. There is python middleware interacting with Drupal-CMS in backend to get contents by sending REST request to drupal cms REST server and passing nodeid of content in request. Once requested contents are received , then python/django middleware formats content to deck of cards format. card format is good to get displayed on end user's mobile. Learning/broadcast cards created in Django & served these to mobile users using Tastypie REST plugin.
 
-4) Mphasis an HP Company	 (7 Nov 11 – 3 Dec 13)
-Project Leader – Systems
-Projects:
-·0 Active Health System WebGUI: Django web project. It bundles below Django Web Apps:
+4)mphasis an HP company                               (7Nov11–3Dec13)
+project leader – systems
+projects:
+Active Health System WebGUI: Django web project. It bundles below Django Web Apps:
 1) ILO (instant Light On) (back end data source is AHS SQLite database)
 2) SoulAPI Browser (back end database is soulAPI CLI Browser)
 Role: 
@@ -184,7 +184,7 @@ It is command line utility used by production support teams for diagnosis of HP 
 Here my role was to setup & develop java factory class (Factory Diagnostic) for dynamically creating smartest object based on user supplied argument –smartest.
 Using this object, further arguments are collected which acts as command name.
 Here I am alone contributor in this project from offsite. In onsite, one more team member is there to just test on different HP Storage Servers (G8) & Dan-Electro controllers.
-Tools & Languages:  Core Java, Eclipse, Java Containers, Java Threads
+tools & languages: java, eclipse
 
 5) Employer: KPIT Cummins Infosystem Ltd		 (Apr 2010 – Nov 2011)
 Tech Lead
