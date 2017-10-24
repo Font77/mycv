@@ -1,0 +1,33 @@
+5) kpit                                                     (Apr10—Nov11)
+   client: 1)hyundai-mobis 2)continental
+   role: technical leader
+   projects: 1)linuxavn	2)electronic brake system
+   skills: c++/qt/qml, gdb, bash, python, perl
+---------
+5) kpit                                                     (Apr10—Nov11)
+
+A) ebs (electronic brake system):
+   role: technical leader
+   responsibilities:
+   writing test cases (tcl test scripts) for testing ebs modules (developed in C) and functionalities.
+   developed script-generation tool using python-lxml-jinja2 : 
+    this tool used to parse ebs_configuration.xml
+develop tools in Perl to generate TCL script initial template.
+Handing Customer Assigned Tasks.
+
+B) LinuxAVN Infotainment project (Mobis-Hyundai)
+LinuxAVN project is Infotainment software project for AVN device for cars.
+LinuxAVN Target runs Linux Kernel on MIPS architecture.
+Responsibilities: 
+1) Developing Requirements & Design Diagrams in Enterprise Architect.
+2) Implementation & Development of screens using QML.
+3) Integrate the Back end components (Audio Player, Video player) using Qtdbus.
+4) Developments of QML Plugin library in Qt/C++ which instantiates proxy reference for above components.
+5) Cross compilation the project for MIPS architecture & flashing it on target device.
+6) Unit testing on target.
+7) Integrating tslib with QT.
+8) Qt Gui source code change to send gesureID from multi-touch screen to widgets.
+Tools & IDEs used: Qt, QML, QtDeclarative, Qt Creator (qmake & qml engine ) 
+Enterprise Architect for modeling. Ubuntu 10.04 , Kermit, uboot
+Cross Compiling using open embedded & bitbake.
+Version control using Git.
