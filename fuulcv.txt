@@ -204,8 +204,9 @@ projects :
    1) development, testing, debugging (language: java, ide: eclipse)
 
 5) kpit                                                     (Apr10—Nov11)
-designation : technical leader
-A) linuxavn infotainment project (hyundai-mobis)
+   designation : technical leader
+
+   a) linuxavn infotainment project (hyundai-mobis)
    linuxavn(audio-video-navigator) project is infotainment project for avn device for cars.
    linuxavn target runs linux kernel on mips architecture.
    responsibilities: 
@@ -221,7 +222,8 @@ A) linuxavn infotainment project (hyundai-mobis)
    enterprise architect for modeling. ubuntu 10.04 , kermit, uboot
    cross compiling using open embedded & bitbake.
    version control using git.
-B) ebs (electronic brake system , continental):
+
+   b) ebs (electronic brake system , continental):
    1) ebs test script (tcl scripts) : team-size : 5
    role: technical leader
    responsibilities:      
