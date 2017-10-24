@@ -1,0 +1,19 @@
+9) innominds software (p) ltd				                     (8Aug05-31Dec05)	
+   client: nokia internet communications, hyderabad
+   role: senior software engineer
+   projects: ipvpn
+   skills: c, tcl, linux(freebsd), vi, cscope, javascript, html/css
+//-------------
+9) innominds software (p) ltd				                     (8Aug05-31Dec05)	
+   client: nokia internet communications, hyderabad
+   role: senior software engineer
+   a) ipvpn (target products - nokia 5i, nokia 10i, nokia 50i, nokia 100i and nokia 500i)
+   language/os/tools – c, tcl on freebsd(development machine) and
+      alchemy operating system(aos in target router)
+   operating system - linux, windows, freeBSD, aos
+   role – modified in c source files(network functions) to get ipvpn data in xml format.
+   wrote tcl script to parse generated xml. wrote tcl script (cgi) to get data from
+   parsed xml in hash and populating view. wrote functions for posting information
+   set on view back to device.
+   description – this is a web user interface meant for interacting with nokia ip vpn
+      security appliance products.
