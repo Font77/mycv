@@ -32,10 +32,10 @@ IT EXPERIENCE:
    projects: 1)ften(bluetooth phonebook) 2)atest port testing
    skills: python, eclipse, pdb, django, django-rest-framework, angularjs
 
-2) hp(parent company iss)                                   (15Jun15-7Apr16)
+2) hp(parent company ISS)                                   (15Jun15-7Apr16)
    client: wells fargo
    role: senior consultant technology
-   projects: a)hp sa pre/post patching scripts 2) orm etl solution
+   projects: 1) HP SA AI 2) ORM ETL solution
    skills: python, shell(bash, sed, awk, perl)
 
 3) accionlabs                                               (27Aug14–5May15)
@@ -239,14 +239,6 @@ projects :
 6) polycom r&d india (p) ltd                                (apr08–feb10)
    role: senior software engineer(module lead)
    projects:
-   a) vvx1500 ui development with qt/linux 
-   b) development of python scripts for sip automation team 
-   c) rockpile oem automation
-   skills: python, cpan, python, javascript, html, qt/c++
-//-------------------
-6) polycom r&d india (p) ltd                                (apr08–feb10)
-   role: senior software engineer(module lead)
-   projects:
 
    a1) vvx1500 ui development with qt/linux 
    role:
@@ -294,43 +286,42 @@ projects :
    3) upgraded to version 2.0
    language/tools: html, css, javascript, notepad++, firefox/chrome
 
+7) verizon                                                  (Sep06–Mar08)
+   role: senior analyst
+   projects:
+   a)vmobile simulator(dec06-mar08)
+   it is used as a simulator for testing functionality of different vmobile clients.
+   a) developing architecture and directory structure for this.
+   b) setting virtual hosts for each vmobile client.
+   c) writing code for providing logs to displays requests received and various parameters
+   in that. these logs are helpful for vmobile clients to test its all type of requests and server responses.
+   d) designing basic template for handling request/responses as a start up for other 2 team members.
+   language/tools: python 2.3, komodo ide, notepad++
 
-7) Verizon Data Services India (P) Ltd
-Senior Analyst							(Sep 2006 - Mar 2008)
-Projects/Responsibilities:
-A) VMobile simulator (Dec 2006 - Mar 2008)
-It is used as a simulator for testing functionality of different vMobile clients.
-a) Developing architecture and directory structure for this.
-b) Setting virtual hosts for each vMobile client.
-c) Writing code for providing logs to displays requests received and various parameters
-in that. These logs are helpful for vMobile clients to test its all type of requests and server responses.
-d) Designing basic template for handling request/responses as a start up for other 2 team members.
-Language/Tools: Python 2.3, Komodo IDE, Notepad++
+   b)awas(automated work force administration system) 
+   it is used for receiving dsl/fttp/pots jobs/service requests from backend and
+   then assigning those to technicians as per their-skills/location/criticality/customer type.
+   these jobs are downloaded in laptops/blackberry-sets by technicians using vmobile clients.
+   once they do completion/incompletion/refuse/reroute these are sent to awas, that updates these in
+   awas databases.
+   role: worked for gateway inbound/outbound server side coding.
+   it involves use of C++/esql(Informix) in cem environment on aix.
 
-
-·9 AWAS (Automated work force Administration system) 
-It is used for receiving dsl/fttp/pots jobs/service requests from backend and then assigning those to technicians as per their-skills/location/criticality/customer type.
-These jobs are downloaded in laptops/blackberry-sets by technicians using vMobile clients. Once they do completion/incompletion/refuse/reroute these are sent to AWAS, that updates these in AWAS databases.
-Role: Worked for Gateway Inbound/Outbound server side coding. It involves Use of C++/esql(Informix) in CEM environment on AIX.
-
-C) NetGate (Coding: Sept 2006 - Feb2007, Prod Support: Sept 2006 - Mar 2008) 
-It is middleware based on CORBA-POA (Orbix) architecture for C++ on AIX/SunOS.
-It receives/sends response-back from/to Netway. Its testing is done using Gwsimulator.
-Gwsimulator is used as tool for trouble-shooting any issues arises for dsl/fttp/pots Tickets/service-requests/line-tests. It communicates with other servers using ORB-IDLs/xml-soap architecture.
-
-Role: 
-After getting training of CORBA (IDL & ORB), I contributed first in development for new CR/initiatives got completed in Feb2007.And TIER-III production support from Sept 2006 till Mar 2008. 
-8) IBM							(16Jan06 - 15Sep06)
-Role: Software Engineer
-Project: CFSW ( Configurator for Software)
-Tasks : This project is for porting mainframe cli based tool C++ based utility.
-This tool configures softwares in clients environment. Also It keeps tracking & monitoring for charges of softwares used. Softwares has to be renewed either after a particular cycles of usage or after expiry date.
-Languages & Tools : C++ , VMS, Beyond Compare
+   c)netgate(coding: sept 2006 - feb2007, prod support: sep06-mar08) 
+   it is middleware based on corba-poa(orbix) architecture for C++ on aix/sunos.
+   it receives/sends response-back from/to netway. its testing is done using gwsimulator.
+   gwsimulator is tool for trouble-shooting any issues arises for dsl/fttp/pots
+   tickets/service-requests/line-tests. it communicates with other servers using
+   orb-IDLs/xml-soap architecture.
+   role: 
+      1)took training of corba(idl & orb)
+      2)development for new change-requests/initiatives
+      3)tier-iii production support
 
 9) Innominds Software (P) Ltd			(8Aug05 - 31Dec05)
 Role: Senior Software Engineer
 A) Client:  Nokia Internet Communications, Hyderabad
-Target products - Nokia 5i, Nokia 10i, Nokia 50i, Nokia 100i and Nokia 500i
+Target products - Nokia 5i, Nokia 10i, Nokia 50i, Nokia 100i and Nokia 500i
 Environment – C, TCL on FreeBSD and Alchemy Operating System (AOS)
 Operating System - Linux, Windows, FreeBSD, AOS
 Contribution – Developed C API functions to get IPVPN data in XML format.
@@ -367,12 +358,12 @@ Trainings – One month (Perl, Coding standards of C programming)
 
 
 
-ACHIEVEMENTS & EXTRA CURRICULAR ACTIVITIES
-Professional:
-1) Received “Above & Beyond” Award for our work in vMobile simulator.
-2) Received Appreciation for quick pickup of TCL skills in IPVPN project.
-3) Six sigma white belt certification
-4) CMMI training for understanding its 5 levels.
+achievements & extra curricular activities
+professional:
+1) received "above & beyond" award for our work in vmobile simulator.
+2) received appreciation for quick pickup of tcl skills in ipvpn project.
+3) six sigma white belt certification in ibm
+4) cmmi training for understanding its 5 levels.
 
 Educational:
 1.	Got First class certificate in National Mathematics Olympiad.
