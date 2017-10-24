@@ -47,8 +47,8 @@ IT EXPERIENCE:
 4) mphasis an HP company                                    (7Nov11-3Dec13)
    client: HP
    role: project leader–systems
-	projects: 1) active health system webgui 2) smart storage diagnostic utility
-   skills: c++, gdb, bash, python, eclipse, pdb, jquery
+	projects: 1) active health system webgui 2)ssdu(smart storage diagnostic utility)
+   skills: java, gdb, bash, python, eclipse, pdb, jquery
 
 5) kpit                                                     (Apr10—Nov11)
    client: 1)hyundai-mobis 2)continental
@@ -164,27 +164,34 @@ Tools Used          : Task Coach, Liclipse, ST3, N++, Beyond Compare, Git Bash,
 		     SmartGit, Super putty, Filezilla, Bugzilla.
 Description         : MANGO (Mobile Access Global Network Opportunity) : This is group of integrated applications to serve contents created in Drupal CMS to mobile end users. There is python middleware interacting with Drupal-CMS in backend to get contents by sending REST request to drupal cms REST server and passing nodeid of content in request. Once requested contents are received , then python/django middleware formats content to deck of cards format. card format is good to get displayed on end user's mobile. Learning/broadcast cards created in Django & served these to mobile users using Tastypie REST plugin.
 
-4)mphasis an HP company                               (7Nov11–3Dec13)
-project leader – systems
-projects:
-Active Health System WebGUI: Django web project. It bundles below Django Web Apps:
-1) ILO (instant Light On) (back end data source is AHS SQLite database)
-2) SoulAPI Browser (back end database is soulAPI CLI Browser)
-Role: 
-·1 Development ( Python / JS / Django Models , confurls, forms)
-·2 Code Review of other team members.
-·3 Maintaining wiki for work flow, sprint progress, lessons learnt.
-·4 Tracking team members task status in Task Coach tool
-·5 Helping team members to understand the requirements & giving training for required skills.
-·6 Maintains WSR ( weekly status report) of team members & sending to client
-Tools & Skill sets used: Eclipse-pydev, python2.7, Django1.6 
+4) mphasis an HP company                                    (7Nov11-3Dec13)
+   role: project leader(systems)
+   projects:
+   a) ahs(active health system) webgui: this tool helps user to monitor health of hp storage in browser.
+   team-size : 4 , responsibilities : development , team handling
+   it is developed using mvc framework (python, django, postgres).
+   data-aggregation : informattion of storage server is retrived using http hooks.
+   these hooks returns json/xml response. these responses are parsed.
+   parsed values are binded to insert queries to insert in ahs database(postgres)
+   using parsed values models are populated.
+   change in models are reflected in change in views.
+   ahs web access is used as ilo (instant light on) facility.
+   ahs ilo provides access to soulapi in browser
+   responsibilities: 
+   1 development (language: python, framework: django, ide : eclipse)
+   2 code review
+   3 maintaining wiki for lessons learnt.
+   4 tacking team members task status in task coach tool
+   5 helping team members to understand requirements & giving training for required skills.
+   6 maintains weekly status report of team members & sending to client
+   tools & skills used: eclipse, python(django), javascript/html/css in sublime-text
 
-·7 Smart Storage Diagnostic Utility :
-It is command line utility used by production support teams for diagnosis of HP Storage servers & HP Smart array controllers.
-Here my role was to setup & develop java factory class (Factory Diagnostic) for dynamically creating smartest object based on user supplied argument –smartest.
-Using this object, further arguments are collected which acts as command name.
-Here I am alone contributor in this project from offsite. In onsite, one more team member is there to just test on different HP Storage Servers (G8) & Dan-Electro controllers.
-tools & languages: java, eclipse
+   b) ssdu(smart storage diagnostic utility) : team-size : 2
+   it is command line utility used by production support teams for diagnosis of
+   hp storage servers & hp smart array controllers.
+   these controllers controls hp storage servers(g8) & dan-electro controllers
+   responsibilities: 
+   1) development, testing, debugging (language: java, ide: eclipse)
 
 5) kpit                                                     (Apr10—Nov11)
 designation : technical leader
