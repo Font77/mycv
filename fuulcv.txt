@@ -119,7 +119,7 @@ projects :
 	Tools & Language:
 	Redmine, Eclipse IDE, python
 
-2) HP ( Contractor : ISS ) (15Jun15 – 7Apr16)
+2) hp (contractor : ISS) (15Jun15 – 7Apr16)
 Client : Wells Fargo :)
 Projects : 1) HP SA Pre/Post Patching Scripts 2) ORM ETL solution
 1)HP SA Pre/Post Patching Scripts
@@ -189,7 +189,7 @@ Description         : MANGO (Mobile Access Global Network Opportunity) : This is
    b) ssdu(smart storage diagnostic utility) : team-size : 2
    it is command line utility used by production support teams for diagnosis of
    hp storage servers & hp smart array controllers.
-   these controllers controls hp storage servers(g8) & dan-electro controllers
+   these controllers controls hp storage servers(g8) & dan-electro servers
    responsibilities: 
    1) development, testing, debugging (language: java, ide: eclipse)
 
