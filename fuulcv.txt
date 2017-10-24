@@ -9,17 +9,17 @@ to pursue for challenging career in testing, scripting and test automation
 experience: 12 Yrs in software development & testing using c++/python/javascript
 
 skillset:
-middleware              : python, django, django REST framework
-python                  : datasructures, OOP, , flask, jinja2, lxml
+frontend                : html, css, bootstrap, js, es6, angularjs, jinja2
+middleware              : python, django, django rest framework, node/express
+python                  : datastructures, oop, lxml, pandas, unittest
 database                : postgresql, psycopg, mongodb
 data-modelling          : json/xml schema creation, validation, parsing, serialization
-Frontend                : html, css, bootstrap, es6, jquery, angularjs, jinja2
 
 tools/ide:
 web2.0                  : eclipse, pydev, pdb
 debugging               : gdb, cscope, vi, bash, pdb
 code analysis           : pylint, valgrind
-agile                   : redmine, scrum practices
+agile                   : redmine, scrum
 scm                     : git, svn
 
 it experience:
@@ -103,20 +103,19 @@ ssc (10th)           -   77%
 project experiences
 1) kpit (11Apr16–present)
 projects :
-   1) ften : bluetooth phonebook sync                       (11Apr16-30Sep16)
-      Tasks :
+   a)ften : bluetooth phonebook sync                       (11apr16-30sep16)
+      tasks :
       1) encoding & decoding support for multilanguage vCard
       tools & language: 
       redmine, unipro, c++, eclipse ide, linux (vi, cscope)
-2) ZF-TRW : aTest Port Testing:			(1Nov16 - 1Sep17)
-	1) Understanding client requirements and design diagrams
-	2) Discussing with client for unit tests lists and functions lists to be implemented
-	3) Helping team for writing, debugging, running unittests.
-	4) Generating html test report of unittests
-	5) Gets unittest reviewed by customer.
-	6) Verifying all new functions are passing related unittests.
-	Tools & Language:
-	Redmine, Eclipse IDE, python
+   b) zf-trw : atest port testing:(1nov16-1sep17)
+	1) understanding client requirements and design diagrams
+	2) discussing with client for unit tests lists and functions lists to be implemented
+	3) helping team for writing, debugging, running unittests.
+	4) generating html test report of unittests
+	5) get unittest reviewed by customer.
+	6) verifying all new functions are passing related unittests.
+	tools & language:	redmine, eclipse, python
 
 2) hp(parent company iss)                                   (15Jun15-7Apr16)
    client: wells fargo
