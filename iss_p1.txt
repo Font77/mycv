@@ -17,7 +17,7 @@
 
    b)orm etl solution 
    responsibilities: leading and development with team of 3 members.
-   this solution load data from hp server automation into the wells fargo compliance reporting database.
+   this solution load data from hp server automation into wells fargo compliance reporting database.
    tasks :
    1) doing r&d for setup of : python2.7, virtualenv, pyodbc, unixodbc, cx_Oracle in uat & integration server.
    2) developed python code for :
