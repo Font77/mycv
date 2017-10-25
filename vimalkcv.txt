@@ -1,0 +1,378 @@
+curriculum vitae
+vimal kumar
+mobile: +91-7022310981 
+email: viml828@gmail.com
+
+career objective: looking for challenging project management position where i can increase leadership abilities through regularly encountering and solving problems, managing budgets and meeting targets.
+
+experience: 12.5 yrs in IT domain
+
+skills :
+1) meetings: a) facilitating  meetings b) holding retrospectives
+2) coaching team members (e.g. with one-on-one coachings).
+3) mediating through conflicts.
+4) helping team to make decisions
+5) fostering developer team's self organisation
+6) helping team to create information radiators
+7) giving feedback to team
+8) encouraging use of agile engineering practices with in development team
+9) keeping in touch with every stakeholder regularly
+10) helping team and product owner to find a suitable definition of done, definition of ready
+
+it experience:
+1) kpit                                                     (11Apr16-Present)
+   client: zf/trw
+   role: project leader
+   projects: 1)ften(bluetooth phonebook) 2)atest port testing
+   skills: c++, gdb, cscope, linux, python, eclipse, pdb, unittest
+
+2) hp(parent company ISS)                                   (15Jun15-7Apr16)
+   client: wells fargo
+   role: senior consultant technology
+   projects: 1) HP SA AI 2) ORM ETL solution
+   skills: python, shell(bash, sed, awk, perl)
+
+3) accionlabs                                               (27Aug14-5May15)
+   client: rackspace
+   role: principal consultant
+   projects:
+   a)automation integration
+   b)mango(mobile access network for global opportunity)
+   skills: python, eclipse, pdb, django, django-rest-framework, angularjs
+
+4) mphasis an HP company                                    (7Nov11-3Dec13)
+   client: HP
+   role: project leaderâ€“systems
+	projects: 1) active health system webgui 2)ssdu(smart storage diagnostic utility)
+   skills: java, gdb, bash, python, eclipse, pdb, jquery
+
+5) kpit                                                     (Apr10-Nov11)
+   client: 1)hyundai-mobis 2)continental
+   role: technical leader
+   projects: 1)linuxavn	2)electronic brake system
+   skills: c++/qt/qml, gdb, bash, python, perl
+
+6) polycom r&d india (p) ltd                                (Apr08-Feb10)
+   role: senior software engineer(module lead)
+   projects:
+   1) vvx1500 ui development with qt/linux 
+   2) development of perl scripts for sip automation team 
+   3) rockpile oem automation
+   skills: perl, cpan, python, javascript, html, qt/c++
+
+7) verizon                                                  (Sep06-Mar08)
+   role: senior analyst
+   projects:
+   1) vmobile simulator
+   2) awas (automated work force administration system)
+   3) netgate	
+   skills: bash, perl, c++, gdb, make, html, css, javascript, xml
+
+8) ibm                                                      (16Jan06-15Sep06)
+   role: software engineer
+   projects: 1) CFSW(configurator for software)
+   skills: c++, gdb, make, bash, awk, perl, python
+	
+9) innominds software (p) ltd				                     (8Aug05-31Dec05)	
+   client: nokia internet communications, hyderabad
+   role: senior software engineer
+   projects: vnp webgui
+   skills: c, tcl, linux(freebsd), vi, cscope, javascript, html/css
+
+10) integra micro systems (p) ltd                           (17Feb04-16May05)
+   client: 1)palm-blackberry 2)motorola
+   role: software engineer
+   projects:
+   1)rim client(blackberry web services) on palm handheld
+   2)gwsimulator for phone testing
+   skills: perl, tk, cpan, bash, vi, c++
+
+educational qualifications
+
+B.E. in mfg process & automation                             (Jul96-May00)
+netaji subash institute of technology (formerly: delhi institute of technology)
+delhi university
+
+B.E                  -   64.3% 
+intermediate (10+2) 	-   70.4%
+ssc (10th)           -   77%
+
+project experiences
+1) kpit (11Apr16-present)
+projects :
+   a)ften : bluetooth phonebook sync                       (11apr16-30sep16)
+      tasks :
+      1) encoding & decoding support for multilanguage vCard
+      tools & language: 
+      redmine, unipro, c++, eclipse ide, linux (vi, cscope)
+   b) zf-trw : atest port testing:(1nov16-1sep17)
+	1) understanding client requirements and design diagrams
+	2) discussing with client for unit tests lists and functions lists to be implemented
+	3) helping team for writing, debugging, running unittests.
+	4) generating html test report of unittests
+	5) get unittest reviewed by customer.
+	6) verifying all new functions are passing related unittests.
+	tools & language:	redmine, eclipse, python
+
+2) hp(parent company iss)                                   (15Jun15-7Apr16)
+   client: wells fargo
+   projects: 1) HP SA Pre/Post Patching Scripts 2) orm etl solution
+
+   a)hp sa pre/post patching scripts
+   responsibilities: leading and development with team of 3 members.
+   tasks : 1)refining pre/post checks & actions defined in playbook.
+   2)implementing & automating steps required in pre-patching & post-patching using shell script
+   3)running, testing these scripts in hp sa tool & linux/solaris terminals.
+   skills used : 1)bash 2)sed 3)awk 4)python
+
+   b)orm etl solution 
+   responsibilities: leading and development with team of 3 members.
+   this solution load data from hp server automation into wells fargo compliance reporting database.
+   tasks :
+   1) doing r&d for setup of : python2.7, virtualenv, pyodbc, unixodbc, cx_Oracle in uat & integration server.
+   2) developed python code for :
+      a) connecting to ai vertica db
+      b) quering ai database for fetching records after date saved in control file.
+      c) querying for records for ari those got failed to insert last time.
+      d) inserting/syncing these fetched records in oracle crdb.
+      e) for successful insertion tracking in passed_record.csv
+      f) for failed insertion tracking in failed_record.csv
+   3) non functional requirements:
+      a) sending notification email (mailx) for exceptions in connections, insertions etc.
+      b) scheduling loadaudit, auditmail jobs using crontab
+   skills used: python , shell(bash, grep, sed, awk), scheduling(crontab)
+
+3) accionlabs                                               (27Aug14-5May15)
+   client: rackspace
+   role: principal consultant
+   projects: a)automation integration b)mango c)aric
+   
+   a)automation integration : it is a cluster of python webapps developed in django framework.
+   using these applications products(software/hardware) in data center are allocated/released/managed
+   using webgui.
+   resources (hardware) : servers-machines, switches, lan
+   resources (software) : databases, webservers, fileservers, dns-server, dhcp-server
+   using python-django middle ware information for resources are fetched from rest-api urls.
+   rest api is consumed in angularjs to populate webgui controls (lists,textboxes,etc)
+   tools & ide : eclipse, python, django, django-rest-framework, notepad++
+
+   b)mango(mobile access network for global opportunity)
+   role: design, coding, task management
+   framework: django, python, postgresql, sqlite3, jinja2, tastypie
+   tools used: task coach, eclipse, sublime-text, beyond compare, git, bash
+   description: mango(mobile access network for global opportunity) is group of integrated applications
+   to serve contents created in drupal cms to mobile end users.there is python middleware interacting
+   with drupal-cms in backend to get contents by sending rest request to drupal cms rest server and
+   passing nodeid of content in request. once requested contents are received , then python/django middleware
+   formats content to deck of cards format. card format is good to get displayed on end user's mobile.
+   learning/broadcast cards created in django & served these to mobile users using tastypie rest plugin.
+
+4) mphasis an HP company                                    (7Nov11-3Dec13)
+   role: project leader(systems)
+   projects:
+   a) ahs(active health system) webgui: this tool helps user to monitor health of hp storage in browser.
+   team-size : 4 , responsibilities : development , team handling
+   it is developed using mvc framework (python, django, postgres).
+   data-aggregation : informattion of storage server is retrived using http hooks.
+   these hooks returns json/xml response. these responses are parsed.
+   parsed values are binded to insert queries to insert in ahs database(postgres)
+   using parsed values models are populated.
+   change in models are reflected in change in views.
+   ahs web access is used as ilo (instant light on) facility.
+   ahs ilo provides access to soulapi in browser
+   responsibilities: 
+   1 development (language: python, framework: django, ide : eclipse)
+   2 code review
+   3 maintaining wiki for lessons learnt.
+   4 tacking team members task status in task coach tool
+   5 helping team members to understand requirements & giving training for required skills.
+   6 maintains weekly status report of team members & sending to client
+   tools & skills used: eclipse, python(django), javascript/html/css in sublime-text
+
+   b) ssdu(smart storage diagnostic utility) : team-size : 2
+   it is command line utility used by production support teams for diagnosis of
+   hp storage servers & hp smart array controllers.
+   these controllers controls hp storage servers(g8) & dan-electro servers
+   responsibilities: 
+   1) development, testing, debugging (language: java, ide: eclipse)
+
+5) kpit                                                     (Apr10-Nov11)
+   designation : technical leader
+
+   a) linuxavn infotainment project (hyundai-mobis)
+   linuxavn(audio-video-navigator) project is infotainment project for avn device for cars.
+   linuxavn target runs linux kernel on mips architecture.
+   responsibilities: 
+   1) understanding requirements & model diagrams in enterprise architect.
+   2) implementation & development of screens using qml.
+   3) integrate backend components (audio player, video player) using qtdbus.
+   4) developments of qml plugin library in qt/c++ which instantiates proxy reference for above components.
+   5) cross compiling project for mips architecture & flashing it on target device.
+   6) manual testing on target.
+   7) integrating tslib with qt.
+   8) qt gui source code change to send gestureid from multi-touch screen to widgets.
+   tools & ides used: qt, qml, qtdeclarative, qt creator (qmake & qml engine ) 
+   enterprise architect for modeling. ubuntu 10.04 , kermit, uboot
+   cross compiling using open embedded & bitbake.
+   version control using git.
+
+   b) ebs (electronic brake system , continental):
+   1) ebs test script (tcl scripts) : team-size : 5
+   role: technical leader
+   responsibilities:      
+      facilitating meetings for team. this includes (preparing, moderation, postprocessing)
+      running & reviewing python test scripts.
+   2) script-generation tool using python, lxml, jinja2 : team-size : 1
+   role: developer
+   responsibilities: 
+      development (coding & testing)
+      this tool used to parse ebs_configuration.xml to collect required information in dictionaries.
+      ebs_dict is passed to jinja2 template file ebs_test_script_template.tcl to generate test script.
+
+6) polycom r&d india (p) ltd                                (apr08-feb10)
+   role: senior software engineer(module lead)
+   projects:
+
+   a1) vvx1500 ui development with qt/linux 
+   role:
+   a1) design & development of sip application user interface
+   os: linux montaVista, ui framework and api: qt 4.5, ui modeling pattern: mvc(model view controller)
+   designed uml diagrams (class diagrams, interaction, sequence diagrams, activity diagrams)
+      1) new call screen (idle screen)
+      2) call offering screen (answer screen)
+      3) end call screen
+      4) main menu screen
+      5) call log screen: missed calls, received calls, and placed calls
+      6) admin setting screen 
+      7) network settings screen
+   a2) modeling & porting of spip screens to video phone vvx1500 & ssip
+   (Sound Station IP Phones) by using qt creator.
+   a3) developing python scripts to automate unit testing for call related unit tests.
+   tools used: qt creator, linux ((polydsp davinci): vi, qmake, cscope, valgrind,
+   qt network api, shell, source insight, beyond compare, wincvs
+
+   b) development of python scripts for sip automation team
+   it is python framework to automate testing of development builds on all voip phones.
+   this framework is developed using perl modules to interact with phones over telnet
+   and http hooks. it supports running test scripts remotely on phones. in this frame work
+   all test resources are accessed using webgui in browser. these scripts are run by qmtest tool.
+   role:
+   a) development of python scripts for test cases available in polytest database.
+   b) developing and enhancing framework to interact with phones, boot server, repository, trd.
+   c) testing and debugging perl test scripts in eclipse.
+   d) creating wrapper over dbi, telnet, xml, file and ftp modules.
+   e) creating and maintaining python and batch scripts to generate qmt wrappers to create qmtest tdb.
+   f) scripted, tested & reviewed test cases for below sections:
+   1) call diversion 2) call park & call pickup
+   3) acceptance of passwords in admin/user settings
+   4) multiple call appearance 5) call hold
+   6) call transfer 7) multilingual settings.
+   language/tools: python 2.4, eclipse ide, python modules (logging,unittest,argparse,lxml,request)
+
+   c) rock pile cisco ip phone testing (test record and run tool): 
+   it is used for recording test cases, updating builds and running recorded test cases.
+   it was developed using html/css/javascript.
+   it is accessing phone commands, keypad, screen and audio using http hooks provided for this phone.
+   role:
+   1) took training for how existing rockpile simulator works.
+   2) recorded test cases assigned to me in test database (tcms).
+   3) upgraded to version 2.0
+   language/tools: html, css, javascript, notepad++, firefox/chrome
+
+7) verizon                                                  (Sep06-Mar08)
+   role: senior analyst
+   projects:
+   a)vmobile simulator(dec06-mar08)
+   it is used as a simulator for testing functionality of different vmobile clients.
+   a) developing architecture and directory structure for this.
+   b) setting virtual hosts for each vmobile client.
+   c) writing code for providing logs to displays requests received and various parameters
+   in that. these logs are helpful for vmobile clients to test its all type of requests and server responses.
+   d) designing basic template for handling request/responses as a start up for other 2 team members.
+   language/tools: python 2.3, komodo ide, notepad++
+
+   b)awas(automated work force administration system) 
+   it is used for receiving dsl/fttp/pots jobs/service requests from backend and
+   then assigning those to technicians as per their-skills/location/criticality/customer type.
+   these jobs are downloaded in laptops/blackberry-sets by technicians using vmobile clients.
+   once they do completion/incompletion/refuse/reroute these are sent to awas, that updates these in
+   awas databases.
+   role: worked for gateway inbound/outbound server side coding.
+   it involves use of C++/esql(Informix) in cem environment on aix.
+
+   c)netgate(coding: sept 2006 - feb2007, prod support: sep06-mar08) 
+   it is middleware based on corba-poa(orbix) architecture for C++ on aix/sunos.
+   it receives/sends response-back from/to netway. its testing is done using gwsimulator.
+   gwsimulator is tool for trouble-shooting any issues arises for dsl/fttp/pots
+   tickets/service-requests/line-tests. it communicates with other servers using
+   orb-IDLs/xml-soap architecture.
+   role: 
+      1)took training of corba(idl & orb)
+      2)development for new change-requests/initiatives
+      3)tier-iii production support
+
+9) innominds software (p) ltd				                     (8Aug05-31Dec05)	
+   client: nokia internet communications, hyderabad
+   role: senior software engineer
+   a) ipvpn (target products - nokia 5i, nokia 10i, nokia 50i, nokia 100i and nokia 500i)
+   language/os/tools â€“ c, tcl on freebsd(development machine) and
+      alchemy operating system(aos in target router)
+   operating system - linux, windows, freeBSD, aos
+   role - modified in c source files(network functions) to get ipvpn data in xml format.
+   wrote tcl script to parse generated xml. wrote tcl script (cgi) to get data from
+   parsed xml in hash and populating view. wrote functions for posting information
+   set on view back to device.
+   description â€“ this is a web user interface meant for interacting with nokia ip vpn
+      security appliance products.
+
+10) integra micro systems (p) ltd                           (17feb04-16may05)
+   client: 1)palm-blackberry 2)motorola
+   role: software engineer
+   projects:
+   a)miraculix rim client(blackberry web services) on palm handheld
+   role: software engineer
+   responsibilities: testing email client with following features:
+   viewing list of messages in inbox, outbox, sent, draft, trash, unified-all folders.
+   opening a message and viewing it in message view screen.
+   saving a message in a folder and replying a message to one or all.
+   opening and inserting attachment.
+   input gadget for editing characters by stylus.
+   environment used (palm os and code warrior ide & for later phases .net)
+   programming language (c++ with api of palm os 3.5)
+
+   2) client: motorola india electronics limited, hyderabad. 	(jan 2005 - june 2005)
+   role: software engineer
+   responsibilities:
+   1) development & maintenance of new features of phone simulators
+   (rainbow, neptune). programming language wish (c++) scripts (rainbow),
+   neptune (perl/tk).
+
+   2) development & maintenance of new features in c/c++.	
+   applications - personalize (idle screen, home screen, wallpaper, screensaver, calendar)
+   languages : c++, perl, tcl
+   trainings : one month (perl, coding standards of c programming)
+
+achievements & extra curricular activities
+professional:
+1) received "above & beyond" award for our work in vmobile simulator.
+2) received appreciation for quick pickup of tcl skills in ipvpn project.
+3) six sigma white belt certification in ibm
+4) cmmi training for understanding its 5 levels.
+
+Educational:
+1.	Got First class certificate in National Mathematics Olympiad.
+2.	Got 1st rank in 10th class board examination from Gita Convent School, CBSE.
+
+Awards:
+1.	First Prize in Drawing and Painting Competition in 10th class
+2.	Second Prize in Science Quiz Contest, Kapur College
+
+Activities:
+1. team member in the organization of the annual function activities as part of
+our Shastri House.
+2. organized IT Seminars, Technology Presentations in college during BE.
+3. Developed Software application for online test. Question paper was in doc format. 
+Answer sheet was developed in java program with list containing options (a, b, c, and d).
+
+personal profile
+father's name: ram narain; dob: 8th december 1976, nationality - indian
